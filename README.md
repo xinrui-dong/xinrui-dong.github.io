@@ -6,16 +6,17 @@ English academic homepage of Xinrui Dong, a master's student in Probability and 
 
 https://xinrui-dong.github.io/
 
-## Update the homepage
+The site is public and requires no login. GitHub Pages serves the root of the `main` branch; `.nojekyll` keeps it a plain static site.
 
-1. Open `index.html` in this repository.
-2. Select the pencil icon (Edit this file).
-3. Edit the relevant text without changing the surrounding HTML tags.
-4. Select **Commit changes** and commit to `main`.
-5. GitHub Pages publishes the update automatically. The address stays the same.
+## Files
 
-For larger changes, ask your coding assistant to update this repository and verify the deployed page.
+- `index.html`: academic profile and research content
+- `styles.css`: responsive desktop, mobile and print layout
+- `script.js`: section highlighting and mobile navigation
+- `assets/xinrui-dong.jpg`: profile photograph
+- `assets/Academic_CV_Xinrui_Dong_EN.pdf`: one-page English CV
+- `assets/favicon.svg`: site icon
 
-## Hosting
+Edit the relevant files, then commit to `main`. GitHub Pages publishes automatically and the address stays the same. No build step, external framework, or ChatGPT account is required.
 
-GitHub Pages serves the root of the `main` branch. The `.nojekyll` file keeps this a plain static HTML site. Styles and the favicon are included in `index.html`; no build step, external framework, or ChatGPT account is required.
+Updated 24 October 2026. The undergraduate qualification is presented as Bachelor of Engineering (B.Eng.), with selected quantitative coursework. This does not change the awarded degree or claim a mathematics/statistics undergraduate major.
